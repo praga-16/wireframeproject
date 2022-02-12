@@ -12,8 +12,12 @@ Write your design steps here
 Write your design steps here
 
 ## OUTPUT:
-include your output screenshots 
 
-
+### Home Page:
+![output](1.png)
+### Contact Us:
+![output](2.png)
+### Training Policy:
+![output](3.png)
 ## Result:
 Thus a wire frame is designed for a given website.
